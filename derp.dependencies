@@ -20,7 +20,7 @@
     "target_path" : "vendor/xiaomi/sm6150-common"
 },
 {
-    "repository": "adi8900/hardware_xiaomi",
+    "repository": "DerpFest-Devices/hardware_xiaomi",
     "target_path": "hardware/xiaomi"
 }
 ]
