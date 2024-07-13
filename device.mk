@@ -45,8 +45,8 @@ PRODUCT_PACKAGES += \
 
 # Fstab
 PRODUCT_PACKAGES += \
-    fstab.qcom \
-    fstab.qcom_ramdisk
+    fstab.default \
+    fstab.default_ramdisk
 
 # Init scripts
 PRODUCT_COPY_FILES += \
